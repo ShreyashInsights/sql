@@ -1,0 +1,38 @@
+1. How many Programmers Don’t know PASCAL and C
+2. Display the details of those who don’t know Clipper, COBOL or PASCAL.
+3. Display each language name with AVG Development Cost, AVG Selling Cost and AVG Price
+per Copy.
+4. List the programmer names (from the programmer table) and No. Of Packages each has
+developed.
+5. List each PROFIT with the number of Programmers having that PROF and the number of the
+packages in that PROF.
+6. How many packages are developed by the most experienced programmer form BDPS.
+7. How many packages were developed by the female programmers earning more than the
+highest paid male programmer?
+8. How much does the person who developed the highest selling package earn and what course
+did HE/SHE undergo.
+9. In which institute did the person who developed the costliest package study?
+10. Display the names of the programmers who have not developed any packages.
+11. Display the details of the software that has developed in the language which is neither the
+first nor the second proficiency
+12. Display the details of the software Developed by the male programmers Born before 1965
+and female programmers born after 1975
+13. Display the number of packages, No. of Copies Sold and sales value of each programmer
+institute wise.
+14. Display the details of the Software Developed by the Male Programmers Earning More than
+3000/
+15. Who are the Female Programmers earning more than the Highest Paid male?
+16. Who are the male programmers earning below the AVG salary of Female Programmers?
+17. Display the language used by each programmer to develop the Highest Selling and
+Lowest-selling package.
+18. Display the names of the packages, which have sold less than the AVG number of copies.
+19. Which is the costliest package developed in PASCAL.
+20. How many copies of the package that has the least difference between development and
+selling cost were sold.
+21. Which language has been used to develop the package, which has the highest sales
+amount?
+22. Who Developed the Package that has sold the least number of copies?
+23. Display the names of the courses whose fees are within 1000 (+ or -) of the Average Fee
+24. Display the name of the Institute and Course, which has below AVG course fee.
+25. Which Institute conducts costliest course.
+26. What is the Costliest course?

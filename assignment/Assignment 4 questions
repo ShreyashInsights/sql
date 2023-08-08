@@ -1,0 +1,30 @@
+1. What is the cost of the costliest software development in Basic?
+2. Display details of Packages whose sales crossed the 2000 Mark.
+3. Who are the Programmers who celebrate their Birthdays during the Current Month?
+4. Display the Cost of Package Developed By each Programmer.
+5. Display the sales values of the Packages Developed by each Programmer.
+6. Display the Number of Packages sold by Each Programmer.
+7. Display each programmer’s name, costliest and cheapest Packages Developed by him or
+her.
+8. Display each institute name with the number of Courses, Average Cost per Course.
+9. Display each institute Name with Number of Students.
+10. List the programmers (form the software table) and the institutes they studied.
+11. How many packages were developed by students, who studied in institute that charge the
+lowest course fee?
+12. What is the AVG salary for those whose software sales is more than 50,000/-.
+13. Which language listed in prof1, prof2 has not been used to develop any package.
+14. Display the total sales value of the software, institute wise.
+15. Display the details of the Software Developed in C By female programmers of
+Pragathi.
+16. Display the details of the packages developed in Pascal by the Female Programmers.
+17. Which language has been stated as the proficiency by most of the Programmers?
+18. Who is the Author of the Costliest Package?
+19. Which package has the Highest Development cost?
+20. Who is the Highest Paid Female COBOL Programmer?
+21. Display the Name of Programmers and Their Packages.
+22. Display the Number of Packages in Each Language Except C and C++.
+23. Display AVG Difference between SCOST, DCOST for Each Package.
+24. Display the total SCOST, DCOST and amount to Be Recovered for each Programmer for
+Those Whose Cost has not yet been Recovered.
+25. Who is the Highest Paid C Programmers?
+26. Who is the Highest Paid Female COBOL Programmer?
